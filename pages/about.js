@@ -6,5 +6,5 @@ export default function Potato() {
             <Seo title="About" />
             <h1>About</h1>
         </div>
-    );;
+    );
 }
